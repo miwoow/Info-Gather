@@ -2,4 +2,5 @@
 
 
 #PRE REQUIRE
-Perl Nmap Parser: A perl model which is used to parse nmap resoult.
+OS:
+    Linux
